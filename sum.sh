@@ -1,5 +1,5 @@
 #!/bin/bash
-# Author: Jean-Jacques Simeoni
+# Author: Jean-Jacques Simeoni, this guy is cool
 sum=0
 for arg in $@ #this $@ allows us to catch all variables passed in the commande lines
 do
